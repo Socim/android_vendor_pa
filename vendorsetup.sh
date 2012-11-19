@@ -32,3 +32,4 @@ add_lunch_combo pa_n7000-userdebug
 add_lunch_combo pa_mint-userdebug
 add_lunch_combo pa_tf700t-userdebug
 add_lunch_combo pa_e120l-userdebug
+add_lunch_combo pa_e120s-userdebug
