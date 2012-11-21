@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 #  Set audio
 PRODUCT_PROPERTY_OVERRIDES += \
   ro.config.ringtone=Themos.ogg \
   ro.config.notification_sound=Proxima.ogg \
   ro.config.alarm_alert=Cesium.ogg
-=======
-# Let's wait 4.2 for this
-#PRODUCT_PROPERTY_OVERRIDES += \
-#  ro.config.ringtone=Themos.ogg \
-#  ro.config.notification_sound=Proxima.ogg \
-#  ro.config.alarm_alert=Cesium.ogg
->>>>>>> a0dd9c799bcddc33d7f2e400a10b1f84ac90ccf7
 
 # Copy specific ROM files
 PRODUCT_COPY_FILES += \

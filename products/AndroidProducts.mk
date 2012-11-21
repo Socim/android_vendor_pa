@@ -112,9 +112,9 @@ endif
 ifeq (pa_e120l,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_e120l.mk
 endif
-<<<<<<< HEAD
 ifeq (pa_e120s,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_e120s.mk
 endif
-=======
->>>>>>> a0dd9c799bcddc33d7f2e400a10b1f84ac90ccf7
+ifeq (pa_i757m,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_i757m.mk
+endif
