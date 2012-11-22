@@ -8,7 +8,7 @@ OVERLAY_TARGET := pa_xhdpi
 include vendor/pa/config/pa_common.mk
 
 # Inherit CM device configuration
-$(call inherit-product, device/samsung/i757m/cm.mk)
+$(call inherit-product, device/samsung/celoxhd/cm.mk)
 
 PRODUCT_NAME := pa_i757m
 
